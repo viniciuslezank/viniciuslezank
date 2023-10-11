@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil⏰
 
-<!--
-**viniciuslezank/viniciuslezank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é vinicius lezan
 
-Here are some ideas to get you started:
+-estou estudando na alura 
+-estou me desenvolvendo na linguagen javaScript
+-uso esse espaço para organização e compaetilhamendo dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###voce pode entrar en contado comigo pelo📫
+vinicius.lezan@escola.pr.gov.br
+
+@viniciuslezank
+
+
+![](https://media.tenor.com/DLX2CDNyqRgAAAAM/zilliqa-zil.gif)
